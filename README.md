@@ -1,2 +1,2 @@
 # sample
-Hello humans. -Cat
+Hello human. -Cat
